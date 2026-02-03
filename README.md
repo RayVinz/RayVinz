@@ -14,8 +14,6 @@
       <ul>
         <li>🌟 <b>I'm currently working on:</b> <code>Database exploit, Duplicate</code></li>
         <li>📄 <b>Experiences:</b> 
-          <a href="https://www.facebook.com/kevinboboka">Facebook</a> | 
-          <a href="https://www.instagram.com/supphamongkhonluvpenguin">Instagram</a>
         </li>
         <li>📊 <b>Languages:</b> Python , Lua , Little of C#,C+</li>
         <li>💬 <b>DM 4 WORK:</b> <a href="mailto:repenguin.godz@gmail.com"><b>[DM FOR WORK]</b></a></li>
